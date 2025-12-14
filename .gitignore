@@ -1,0 +1,32 @@
+# Byte-compiled / Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Browser profiles (contains session data)
+profiles/
+browser_profile/
+
+# Release zips
+Releases/
+
+# Logs
+*.log

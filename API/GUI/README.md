@@ -1,75 +1,60 @@
 # 🦅 WhatsApp API GUI Checker
 
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=flat-square)](https://elsakr.company)
+[![Built by Developers](https://img.shields.io/badge/Built%20by-Developers-green?style=flat-square)](https://elsakr.company)
+[![License](https://img.shields.io/github/license/khalidsakrjoker/whatsapp-numbers-checker?style=flat-square&color=blue)](../../LICENSE)
 
-<div align="center">
-  <a href="https://elsakr.company">
-    <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
-  </a>
-</div>
+## Overview
+Part of the **Elsakr Open Source Tools Ecosystem** — global proactive solutions for developers, designers, and marketers.
+> **[View All Tools](https://elsakr.company/tools)**
 
-> **Part of Elsakr Open Source Tools Ecosystem — [View All Tools](https://elsakr.company/tools)**  
-> *Check 10,000 WhatsApp numbers in minutes with 100% accuracy.*
+**The flagship desktop tool for heavy-duty WhatsApp verification.** 
+Built for agencies and data analysts who need to filter tens of thousands of numbers with 100% accuracy using the official API protocols.
 
-## ⭐ Badges
-![Type](https://img.shields.io/badge/Type-Desktop_App-blue?style=flat-square)
-![Accuracy](https://img.shields.io/badge/Accuracy-100%25-green?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)
+## 🚀 Features
+- 🔹 **High Throughput**: Check 50-100 numbers per second.
+- 🔹 **Clean GUI**: Modern, dark-themed interface built for ease of use.
+- 🔹 **CSV Export**: One-click export of Valid/Invalid numbers.
+- 🔹 **Real-time Stats**: Live progress bars and counter.
 
-## 📌 Table of Contents
-- [What is it?](#-what-is-it)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [النسخة العربية](#-النسخة-العربية)
+## 📸 Screenshots / Demo
+![App Screenshot](./assets/Screenshot.png)
 
----
+## 📦 Getting Started
 
-## 💡 What is it?
-**WhatsApp API GUI Checker** is a high-performance desktop application designed for agencies and big data needs. It leverages the official API to check thousands of numbers in minutes with zero false positives.
-
-## ⚡ Features
-- **Beautiful GUI**: Modern, user-friendly interface.
-- **High Performance**: Checks numbers at blazing speed.
-- **100% Accuracy**: Valid is Valid. Zero guesses.
-- **Import/Export**: Drag & drop support for large lists.
-- **Agency Ready**: Built for high-volume campaigns.
-
-## 🚀 Installation
-1. Install Python dependencies:
+### 💻 Installation
+1. Ensure you have Python installed.
+2. Navigate to the directory:
+   ```bash
+   cd API/GUI
+   ```
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-## 📦 Usage
-![App Screenshot](./assets/Screenshot.png)
-
-1. Run the tool:
-   ```bash
-   python main.py
-   ```
-2. **Prepare Data**: Create `numbers.txt` or drag-and-drop your file.
-3. **Start**: Click "Start" and watch the results.
-4. **Results**: Check `valid.txt` (active numbers) and `invalid.txt`.
+### ▶️ Usage
+Run the application:
+```bash
+python main.py
+```
+1. Load your numbers file (`.txt` or `.csv`).
+2. Click **Start Checking**.
+3. Export your results.
 
 ## 🤝 Contributing
-Contributions are welcome! See the Master README for details.
+We welcome contributions! See the Master README for guidelines.
+
+## 📝 License
+This project is licensed under the MIT License.
+
+## ⭐ Signature
+**Elsakr** — *Open Source Tools with a Falcon’s Vision.*  
+[elsakr.company](https://elsakr.company)
 
 ---
 
-## 🇪🇬 النسخة العربية
+# 🇪🇬 النسخة العربية (Arabic Version)
 
-### المميزات
-- **واجهة احترافية:** سهلة جداً.
-- **سرعة صاروخ:** 10,000 رقم في دقايق.
-- **دقة 100%:** مفيش غلطة.
-- **استيراد وتصدير:** التعامل مع الملفات الكبيرة بسهولة.
-
-### طريقة التشغيل
-1. `pip install -r requirements.txt`
-2. `python main.py`
-3. اختار ملف الأرقام ودوس Start.
-
-<div align="center">
-  <h3>Elsakr — Open Source Tools with a Falcon’s Vision.</h3>
-</div>
+## 🦅 فاحص الواتساب (وجهة رسومية API)
+الأداة الأقوى للشركات والمسوقين. بتفحص آلاف الأرقام في دقايق باستخدام الـ API الرسمي. واجهة سهلة، تقارير دقيقة، وتصدير مباشر للنتائج.

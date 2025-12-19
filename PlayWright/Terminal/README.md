@@ -1,73 +1,62 @@
-# 🦅 WhatsApp FREE Terminal Checker
+# 🦅 WhatsApp Free Terminal Checker
 
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=flat-square)](https://elsakr.company)
+[![Built by Developers](https://img.shields.io/badge/Built%20by-Developers-green?style=flat-square)](https://elsakr.company)
+[![License](https://img.shields.io/github/license/khalidsakrjoker/whatsapp-numbers-checker?style=flat-square&color=blue)](../../LICENSE)
 
-<div align="center">
-  <a href="https://elsakr.company">
-    <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
-  </a>
-</div>
+## Overview
+Part of the **Elsakr Open Source Tools Ecosystem** — global proactive solutions for developers, designers, and marketers.
+> **[View All Tools](https://elsakr.company/tools)**
 
-> **Part of Elsakr Open Source Tools Ecosystem — [View All Tools](https://elsakr.company/tools)**  
-> *Free + Terminal = The Perfect Combo.*
+**Automation met efficiency.**
+Combines the free nature of Playwright with the speed of a headless terminal interface. Ideal for users who want to run background verification tasks without a GUI taking up screen space.
 
-## ⭐ Badges
-![Type](https://img.shields.io/badge/Type-CLI-black?style=flat-square)
-![Cost](https://img.shields.io/badge/Cost-%240_Free-green?style=flat-square)
-![Mode](https://img.shields.io/badge/Mode-Headless-purple?style=flat-square)
+## 🚀 Features
+- 🔹 **Headless Mode**: Runs silently in the background.
+- 🔹 **Resource Friendly**: Uses less memory than the full GUI version.
+- 🔹 **Free**: No API costs involved.
+- 🔹 **Automated Saving**: Results are saved automatically to output files.
 
-## 📌 Table of Contents
-- [What is it?](#-what-is-it)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [النسخة العربية](#-النسخة-العربية)
-
----
-
-## 💡 What is it?
-**WhatsApp FREE Terminal Checker** provides the power of free automation in a lightweight CLI format. It runs headlessly (without a visible browser window), making it efficient and perfect for developers.
-
-## ⚡ Features
-- **Cost: $0.00**: Automation without the price tag.
-- **Headless Power**: Run in background contexts.
-- **CLI Efficiency**: Minimal resource usage.
-- **Scriptable**: Build your own bots on top of it.
-
-## 🚀 Installation
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   playwright install chromium
-   ```
-
-## 📦 Usage
+## 📸 Screenshots / Demo
 ![App Screenshot](./assets/Screenshot.png)
 
-1. Run the tool:
+## 📦 Getting Started
+
+### 💻 Installation
+1. Install Python & Playwright.
    ```bash
-   python main.py
+   pip install playwright
+   playwright install chromium
    ```
-2. Follow the terminal prompts to authenticate (scan QR if needed).
-3. The tool will read from `numbers.txt` and output results.
+2. Navigate to the directory:
+   ```bash
+   cd PlayWright/Terminal
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### ▶️ Usage
+Run the script:
+```bash
+python main.py
+```
+Follow the on-screen prompts to authenticate and start the batch.
 
 ## 🤝 Contributing
-Contributions are welcome! See the Master README for details.
+We welcome contributions! See the Master README for guidelines.
+
+## 📝 License
+This project is licensed under the MIT License.
+
+## ⭐ Signature
+**Elsakr** — *Open Source Tools with a Falcon’s Vision.*  
+[elsakr.company](https://elsakr.company)
 
 ---
 
-## 🇪🇬 النسخة العربية
+# 🇪🇬 النسخة العربية (Arabic Version)
 
-### المميزات
-- **صفر تكاليف:** أتمتة مجانية.
-- **Headless:** شغالة في الخلفية من غير شاشات.
-- **للمطورين:** تيرمينال وبس.
-
-### طريقة التشغيل
-1. `pip install -r requirements.txt`
-2. `playwright install chromium`
-3. شغل: `python main.py`
-
-<div align="center">
-  <h3>Elsakr — Open Source Tools with a Falcon’s Vision.</h3>
-</div>
+## 🦅 فاحص الواتساب (مجاني Terminal)
+الخيار الأمثل للأتمتة (Automation). بيشتغل في الخلفية (Headless) من غير ما يزعجك، وبيستخدم واتساب ويب عشان الخدمة تبقى مجانية 100%.

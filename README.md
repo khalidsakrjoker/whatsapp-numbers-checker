@@ -1,50 +1,30 @@
 # 🦅 Elsakr WhatsApp Marketing Suite
 
-
-<div align="center">
-  <a href="https://elsakr.company">
-    <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
-  </a>
-</div>
-
-> **Part of Elsakr Open Source Tools Ecosystem — [View All Tools](https://elsakr.company/tools)**  
-> *Open Source Tools with a Falcon’s Vision.*
-
----
-
-## ⭐ Badges
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=flat-square)](https://elsakr.company)
+[![Built by Developers](https://img.shields.io/badge/Built%20by-Developers-green?style=flat-square)](https://elsakr.company)
+[![License](https://img.shields.io/github/license/khalidsakrjoker/whatsapp-numbers-checker?style=flat-square&color=blue)](LICENSE)
 ![Stars](https://img.shields.io/github/stars/khalidsakrjoker/whatsapp-numbers-checker?style=social)
-![License](https://img.shields.io/github/license/khalidsakrjoker/whatsapp-numbers-checker?style=flat-square&color=blue)
-![Language](https://img.shields.io/github/languages/top/khalidsakrjoker/whatsapp-numbers-checker?style=flat-square)
-![Downloads](https://img.shields.io/github/downloads/khalidsakrjoker/whatsapp-numbers-checker/total?style=flat-square&color=green)
 
-## 📌 Table of Contents
-- [What is it?](#-what-is-it)
-- [Available Tools](#-available-tools)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-- [النسخة العربية (Arabic)](#-النسخة-العربية)
+## Overview
+Part of the **Elsakr Open Source Tools Ecosystem** — global proactive solutions for developers, designers, and marketers.
+> **[View All Tools](https://elsakr.company/tools)**
+
+**A comprehensive, local-first ecosystem for WhatsApp marketing automation.**
+Whether you are an agency needing high-speed accuracy, a developer building headless scripts, or a freelancer looking for free tools, this suite has it all. Zero subscriptions. Zero data harvesting. 100% Privacy.
 
 ---
 
-## 💡 What is it?
-**Elsakr WhatsApp Marketing Suite** is a comprehensive ecosystem of Open Source tools designed for developers, marketers, and agencies. We provide premium, secure, and local-first tools for WhatsApp marketing automation without hidden fees, data harvesting, or subscriptions.
-
-## 🛠️ Available Tools
-
-| Tool | Type | Best For | Description |
-|------|------|----------|-------------|
-| **[WhatsApp API GUI](./API/GUI)** | Desktop App | Agencies & Big Data | Check 10,000 numbers in minutes. Beautiful GUI. 100% Accuracy. |
-| **[WhatsApp API Terminal](./API/Terminal)** | CLI | Power Users | Blazing fast. Script-friendly. Pure power for devs. |
-| **[WhatsApp FREE GUI](./PlayWright/GUI)** | Desktop App | Freelancers | $0 Cost. Scans QR code. No API fees. Simple & Friendly. |
-| **[WhatsApp FREE Terminal](./PlayWright/Terminal)** | CLI | Developers | The perfect combo: Free + Automation. Headless & Efficient. |
+## 🚀 Features
+- 🔹 **Multi-Engine Core**: Choose between **Official API** (High Speed) or **Playwright** (Free Automation).
+- 🔹 **Dual-Mode Operation**: Available as a robust **GUI Desktop App** and a lightning-fast **CLI Terminal**.
+- 🔹 **Privacy First**: All data processing happens locally on your machine.
+- 🔹 **Bulk Capability**: Verify 10,000+ numbers in minutes with verified accuracy.
+- 🔹 **Smart Reporting**: Export verified leads directly to CSV/Excel.
 
 ---
 
 ## 📸 Visual Tour
+Check out the tools in action:
 
 | **API GUI** | **API Terminal** |
 |:---:|:---:|
@@ -56,52 +36,61 @@
 | <img src="./PlayWright/GUI/assets/Screenshot.png" width="400" alt="Free GUI"> | <img src="./PlayWright/Terminal/assets/Screenshot.png" width="400" alt="Free CLI"> |
 | *Visual Automation* | *Headless Power* |
 
-## 🚀 Installation
-Clone the repository to access all tools:
+---
+
+## 📦 Getting Started
+
+### 💻 Installation
+Clone the repository to get the entire suite:
 
 ```bash
 git clone https://github.com/khalidsakrjoker/whatsapp-numbers-checker.git
 cd whatsapp-numbers-checker
 ```
 
-## 📦 Usage
-Navigate to the specific tool you need and follow its README instructions for detailed usage steps.
+### ▶️ Usage
+Navigate to the specific tool you need:
 
-## 🤝 Contributing
-We welcome contributions!
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
+| Tool | Type | Directory |
+|------|------|-----------|
+| **WhatsApp API GUI** | Desktop | `cd API/GUI` |
+| **WhatsApp API Terminal** | CLI | `cd API/Terminal` |
+| **WhatsApp FREE GUI** | Desktop | `cd PlayWright/GUI` |
+| **WhatsApp FREE Terminal** | CLI | `cd PlayWright/Terminal` |
 
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📬 Contact
-**Maintained by Elsakr Tools**  
-Check out our other tools: [Elsakr Company](https://elsakr.company)
+*Refer to the `README.md` inside each folder for specific run instructions.*
 
 ---
 
-## 🇪🇬 الرؤية المصرية (Arabic Version)
+## 🤝 Contributing
+We welcome contributions!
+1. Fork the repo.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes.
+4. Push to the branch.
+5. Open a Pull Request.
 
-### إيه هي مكتبة أدوات الواتساب من الصقر؟ 🦅
-دي مجموعة أدوات مفتوحة المصدر (Open Source) للمسوقين والمطورين. مفيش اشتراكات، مفيش سرقة بيانات، ومفيش رسوم مخفية.
+## 📝 License
+This project is licensed under the MIT License.
 
-### الأدوات المتاحة
-1. **[WhatsApp API GUI](./API/GUI)**: للمحترفين، افحص 10,000 رقم في دقايق.
-2. **[WhatsApp API Terminal](./API/Terminal)**: للمبرمجين، سرعة خرافية من التيرمينال.
-3. **[WhatsApp FREE GUI](./PlayWright/GUI)**: للمبتدئين، ببلاش تماماً! سجل دخول بالـ QR Code.
-4. **[WhatsApp FREE Terminal](./PlayWright/Terminal)**: للمطورين، أتمتة ببلاش في الخلفية.
+## ⭐ Signature
+**Elsakr** — *Open Source Tools with a Falcon’s Vision.*  
+[elsakr.company](https://elsakr.company)
 
-### المساهمة (Contributing)
-بنرحب بأي مساهمة! لو عندك فكرة أو تعديل، اعمل Pull Request.
+---
 
-### الحقوق
-المشروع ده مرخص تحت رخصة MIT.
+# 🇪🇬 الرؤية المصرية (Arabic Version)
+
+## 🦅 مكتبة أدوات الواتساب من الصقر
+مجموعة أدوات مفتوحة المصدر (Open Source) للمسوقين والمطورين. مفيش اشتراكات، مفيش سرقة بيانات، ومفيش رسوم مخفية.
+
+**أدواتك كلها هنا:**
+1. **[WhatsApp API GUI](./API/GUI)**: سرعة ودقة للمحترفين.
+2. **[WhatsApp API Terminal](./API/Terminal)**: سكريبتات للمبرمجين.
+3. **[WhatsApp FREE GUI](./PlayWright/GUI)**: مسح QR Code وبدأ الشغل (مجاني).
+4. **[WhatsApp FREE Terminal](./PlayWright/Terminal)**: أتمتة كاملة في الخلفية.
 
 <div align="center">
-  <p>Built by developers. Open Source. Privacy First.</p>
-  <h3>Elsakr — Open Source Tools with a Falcon’s Vision.</h3>
+  <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="150">
+  <p><strong>Elsakr — Open Source Tools with a Falcon’s Vision.</strong></p>
 </div>

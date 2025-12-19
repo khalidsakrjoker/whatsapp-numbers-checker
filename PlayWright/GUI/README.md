@@ -1,75 +1,64 @@
-# 🦅 WhatsApp FREE GUI Checker
+# 🦅 WhatsApp Free GUI Checker
 
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?style=flat-square)](https://elsakr.company)
+[![Built by Developers](https://img.shields.io/badge/Built%20by-Developers-green?style=flat-square)](https://elsakr.company)
+[![License](https://img.shields.io/github/license/khalidsakrjoker/whatsapp-numbers-checker?style=flat-square&color=blue)](../../LICENSE)
 
-<div align="center">
-  <a href="https://elsakr.company">
-    <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
-  </a>
-</div>
+## Overview
+Part of the **Elsakr Open Source Tools Ecosystem** — global proactive solutions for developers, designers, and marketers.
+> **[View All Tools](https://elsakr.company/tools)**
 
-> **Part of Elsakr Open Source Tools Ecosystem — [View All Tools](https://elsakr.company/tools)**  
-> *No Costs. No API Fees. Just Scan & Go.*
+**Zero Cost. Maximum Value.**
+This tool uses browser automation (Playwright) to verify numbers by simulating a real WhatsApp Web session. Perfect for freelancers who want to verify lists without paying for API access.
 
-## ⭐ Badges
-![Type](https://img.shields.io/badge/Type-Desktop_App-blue?style=flat-square)
-![Cost](https://img.shields.io/badge/Cost-%240_Free-green?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-Playwright-orange?style=flat-square)
+## 🚀 Features
+- 🔹 **Completely Free**: Uses your own WhatsApp Web session.
+- 🔹 **QR Login**: Safe, standard login process.
+- 🔹 **Visual Feedback**: Watch the automation work in real-time.
+- 🔹 **No Ban Risk**: Mimics human behavior to separate valid numbers.
 
-## 📌 Table of Contents
-- [What is it?](#-what-is-it)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [النسخة العربية](#-النسخة-العربية)
-
----
-
-## 💡 What is it?
-**WhatsApp FREE GUI Checker** allows you to check WhatsApp numbers for free using browser automation (Playwright). It simulates a real user on WhatsApp Web, eliminating the need for paid APIs.
-
-## ⚡ Features
-- **100% FREE**: Forever. No per-message fees.
-- **Playwright Powered**: Authentic browser simulation.
-- **QR Code Login**: Secure login with your own WhatsApp.
-- **Simple GUI**: Easy to use for everyone.
-- **Privacy**: Runs locally on your machine.
-
-## 🚀 Installation
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   playwright install chromium
-   ```
-
-## 📦 Usage
+## 📸 Screenshots / Demo
 ![App Screenshot](./assets/Screenshot.png)
 
-1. Run the tool:
+## 📦 Getting Started
+
+### 💻 Installation
+1. Install Python & Playwright.
    ```bash
-   python main.py
+   pip install playwright
+   playwright install chromium
    ```
-2. A Chrome window will open. **Scan the QR Code** with your mobile.
-3. Load your numbers and start checking.
+2. Navigate to the directory:
+   ```bash
+   cd PlayWright/GUI
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### ▶️ Usage
+Run the application:
+```bash
+python main.py
+```
+1. Scan the QR code when the browser opens.
+2. Import your numbers.
+3. Start checking.
 
 ## 🤝 Contributing
-Contributions are welcome! See the Master README for details.
+We welcome contributions! See the Master README for guidelines.
+
+## 📝 License
+This project is licensed under the MIT License.
+
+## ⭐ Signature
+**Elsakr** — *Open Source Tools with a Falcon’s Vision.*  
+[elsakr.company](https://elsakr.company)
 
 ---
 
-## 🇪🇬 النسخة العربية
+# 🇪🇬 النسخة العربية (Arabic Version)
 
-### المميزات
-- **ببلاش 100%:** للأبد.
-- **محاكاة متصفح:** استخدام Playwright لضمان الأمان.
-- **QR Code:** سجل دخول بأمان.
-- **واجهة بسيطة:** مش محتاجة خبرة.
-
-### طريقة التشغيل
-1. `pip install -r requirements.txt`
-2. `playwright install chromium`
-3. شغل البرنامج: `python main.py` واعمل Scan.
-
-<div align="center">
-  <h3>Elsakr — Open Source Tools with a Falcon’s Vision.</h3>
-</div>
+## 🦅 فاحص الواتساب (مجاني GUI)
+للمبتدئين والـ Freelancers. افحص أرقام ببلاش عن طريق متصفح واتساب ويب. سجل دخول بالـ QR Code وسيب الأداة تشتغل لوحدها.

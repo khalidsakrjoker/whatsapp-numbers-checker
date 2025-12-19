@@ -1,34 +1,65 @@
-# WhatsApp Numbers Checker (Playwright GUI - FREE)
+# 🦅 WhatsApp FREE GUI Checker
 
-واجهة رسومية مجانية لفحص أرقام الهاتف ومعرفة المسجل منها في واتساب - بدون API!
-
-## 🚀 طريقة الاستخدام
-
-### الخطوة 1: تسجيل الدخول (مرة واحدة فقط)
-1. اضغط زرار **🔐 Login to WhatsApp**
-2. سيفتح المتصفح مع نافذة Inspector
-3. امسح رمز QR بتطبيق واتساب
-4. أغلق الـ Inspector لحفظ الجلسة
-
-### الخطوة 2: فحص الأرقام
-1. ضع الأرقام في منطقة النص (أو اضغط Upload)
-2. اضغط **🚀 Start Checking**
-3. انتظر حتى ينتهي الفحص
-
-## 📁 الملفات
-
-| الملف | الوصف |
-|-------|-------|
-| `numbers.txt` | الأرقام المراد فحصها (بالكود الدولي) |
-| `valid.txt` | الأرقام الموجودة على واتساب |
-| `invalid.txt` | الأرقام غير الموجودة |
-| `profiles/` | مجلد حفظ جلسة تسجيل الدخول |
-
-## 📱 صيغة الأرقام
-- يجب أن تحتوي على كود الدولة
-- مثال: `201012345678` (مصر)
-- مثال: `966512345678` (السعودية)
+> **Part of Elsakr Open Source Tools Ecosystem.**  
+> *No Costs. No API Fees. Just Scan & Go.*
 
 ---
-**© شركة الصقر للبرمجيات (Elsakr Soft)**
-https://elsakr.company
+
+## ⚡ Features
+
+- **100% FREE**: Forever. No subscriptions, no per-message fees.
+- **Playwright Powered**: Uses browser automation for authentic checks.
+- **QR Code Login**: Just scan with your WhatsApp Web.
+- **Simple GUI**: Very easy to use, perfect for freelancers.
+- **Privacy**: Runs locally on your machine.
+
+---
+
+## 🚀 Usage
+
+1. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   playwright install chromium
+   ```
+
+2. **Run the Tool**:
+   ```bash
+   python main.py
+   ```
+
+3. **Login**:
+   - A Chrome window will open.
+   - Scan the QR code with your WhatsApp.
+
+4. **Start Checking**:
+   - Load your `numbers.txt`.
+   - Watch the magic happen.
+
+---
+
+## 🇪🇬 النسخة العربية
+
+### المميزات:
+- **ببلاش 100%:** ولا مليم. للأبد.
+- **تكنولوجيا Playwright:** محاكاة متصفح حقيقية.
+- **QR Code:** سجل دخول بالواتس بتاعك عادي جداً.
+- **واجهة بسيطة:** مش محتاجة شرح.
+
+### طريقة التشغيل:
+1. طب المكتبات:
+   ```bash
+   pip install -r requirements.txt
+   playwright install chromium
+   ```
+2. شغل البرنامج: `python main.py`
+3. اعمل Scan للـ QR Code ومبروك عليك.
+
+---
+
+<br>
+
+<div align="center">
+  <p>Built by developers. Open Source. Privacy First.</p>
+  <h3>Elsakr — Open Source Tools with a Falcon’s Vision.</h3>
+</div>

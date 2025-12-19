@@ -42,6 +42,20 @@
 | **[WhatsApp FREE GUI](./PlayWright/GUI)** | Desktop App | Freelancers | $0 Cost. Scans QR code. No API fees. Simple & Friendly. |
 | **[WhatsApp FREE Terminal](./PlayWright/Terminal)** | CLI | Developers | The perfect combo: Free + Automation. Headless & Efficient. |
 
+---
+
+## 📸 Visual Tour
+
+| **API GUI** | **API Terminal** |
+|:---:|:---:|
+| <img src="./API/GUI/assets/Screenshot.png" width="400" alt="API GUI"> | <img src="./API/Terminal/assets/Screenshot.png" width="400" alt="API CLI"> |
+| *High-speed Checking* | *Blazing Fast Scripting* |
+
+| **Free GUI** | **Free Terminal** |
+|:---:|:---:|
+| <img src="./PlayWright/GUI/assets/Screenshot.png" width="400" alt="Free GUI"> | <img src="./PlayWright/Terminal/assets/Screenshot.png" width="400" alt="Free CLI"> |
+| *Visual Automation* | *Headless Power* |
+
 ## 🚀 Installation
 Clone the repository to access all tools:
 

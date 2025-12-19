@@ -43,7 +43,7 @@
    ```
 
 ## 📦 Usage
-![App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot+Coming+Soon)
+![App Screenshot](./assets/Screenshot.png)
 
 1. Run the tool:
    ```bash

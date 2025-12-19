@@ -1,5 +1,10 @@
 # 🦅 WhatsApp API GUI Checker
 
+
+<div align="center">
+  <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
+</div>
+
 > **Part of Elsakr Open Source Tools Ecosystem.**  
 > *Check 10,000 WhatsApp numbers in minutes with 100% accuracy.*
 

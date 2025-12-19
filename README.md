@@ -1,5 +1,10 @@
 # 🦅 Elsakr WhatsApp Marketing Suite
 
+
+<div align="center">
+  <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
+</div>
+
 > **Part of Elsakr Open Source Tools Ecosystem.**  
 > *Open Source Tools with a Falcon’s Vision.*
 

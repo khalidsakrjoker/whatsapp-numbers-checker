@@ -1,5 +1,10 @@
 # 🦅 WhatsApp API Terminal Checker
 
+
+<div align="center">
+  <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
+</div>
+
 > **Part of Elsakr Open Source Tools Ecosystem.**  
 > *CLI Power for Developers. Script-friendly. Blazing Fast.*
 

@@ -1,5 +1,10 @@
 # 🦅 WhatsApp FREE Terminal Checker
 
+
+<div align="center">
+  <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
+</div>
+
 > **Part of Elsakr Open Source Tools Ecosystem.**  
 > *Free + Terminal = The Perfect Combo.*
 

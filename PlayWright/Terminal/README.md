@@ -2,10 +2,12 @@
 
 
 <div align="center">
-  <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
+  <a href="https://elsakr.company">
+    <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
+  </a>
 </div>
 
-> **Part of Elsakr Open Source Tools Ecosystem.**  
+> **Part of Elsakr Open Source Tools Ecosystem — [View All Tools](https://elsakr.company/tools)**  
 > *Free + Terminal = The Perfect Combo.*
 
 ## ⭐ Badges
@@ -40,6 +42,8 @@
    ```
 
 ## 📦 Usage
+![App Screenshot](./assets/Screenshot.png)
+
 1. Run the tool:
    ```bash
    python main.py

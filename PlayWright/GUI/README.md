@@ -2,10 +2,12 @@
 
 
 <div align="center">
-  <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
+  <a href="https://elsakr.company">
+    <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
+  </a>
 </div>
 
-> **Part of Elsakr Open Source Tools Ecosystem.**  
+> **Part of Elsakr Open Source Tools Ecosystem — [View All Tools](https://elsakr.company/tools)**  
 > *No Costs. No API Fees. Just Scan & Go.*
 
 ## ⭐ Badges
@@ -41,6 +43,8 @@
    ```
 
 ## 📦 Usage
+![App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot+Coming+Soon)
+
 1. Run the tool:
    ```bash
    python main.py

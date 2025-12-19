@@ -2,10 +2,12 @@
 
 
 <div align="center">
-  <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
+  <a href="https://elsakr.company">
+    <img src="https://elsakr.company/Sakr-logo.webp" alt="Elsakr Logo" width="200">
+  </a>
 </div>
 
-> **Part of Elsakr Open Source Tools Ecosystem.**  
+> **Part of Elsakr Open Source Tools Ecosystem — [View All Tools](https://elsakr.company/tools)**  
 > *Open Source Tools with a Falcon’s Vision.*
 
 ---
